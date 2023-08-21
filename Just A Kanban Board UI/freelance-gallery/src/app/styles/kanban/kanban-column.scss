@@ -1,0 +1,28 @@
+.kanaban-column{
+    min-width: 300px;
+    max-width: 300px;
+    width: 50vw;
+
+    background-color: rgba(255,255,255,0.25);
+
+    margin-right: 2.55vw;
+    margin-left: 2.5vw;
+    margin-top: 2vh;  
+    margin-bottom: 4vh; 
+}
+
+.kanaban-column-header{
+    font-size: x-large;
+    font-weight: 900;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+hr.kanaban-column-header{
+    border-top: 3px solid rgba($color: (#000), $alpha: 0.5) !important;
+}
+
+.droppable-minimum-height {
+    min-height: 100%;
+}

@@ -1,0 +1,21 @@
+{
+    "baseUri":"",
+    "kanbanGet":"/KanbanBoard",
+
+    "kanbanColumnCreate":"/KanbanBoard/column/create",
+    "kanbanColumnSave":"/KanbanBoard/column/save",
+    "kanbanColumnDelete":"/KanbanBoard/column/delete",
+
+    "kanbanCardCreate":"/kanbanboard/KanbanCard/create_card",
+    "kanbanCardSave":"/kanbanboard/KanbanCard/update_card",
+    "kanbanCardDelete":"/kanbanboard/KanbanCard/delete_card",
+    "kanbanCardIndex":"/kanbanboard/KanbanCard/update_card_indices",
+    "kanbanCardsGet":"/kanbanboard/KanbanCard/column_cards",
+
+    "kanbanCardRowCreate":"/kanbanboard/KanbanCard/card_rows/create",
+    "kanbanCardRowSave":"/kanbanboard/KanbanCard/card_rows/update",
+    "kanbanCardRowDelete":"/kanbanboard/KanbanCard/card_rows/delete",
+    "kanbanCardRowsGet":"/kanbanboard/KanbanCard/card_rows",
+
+    "dev-user-id":"42749177-7fd6-489e-87b2-e667b3383dd7"
+}

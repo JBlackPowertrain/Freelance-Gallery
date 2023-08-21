@@ -1,0 +1,21 @@
+.kanban-board{
+    display: flex;
+    flex-direction: row;
+    width: 100vw; 
+}
+
+div.kanban-board{
+    min-height: 500px;
+    height: 77.5vh;
+}
+
+.addNewButton{
+    min-height: 25px;
+    max-height: 50px;
+    min-width: 150px;
+    width: 10vw;
+    margin-right: auto;
+    margin-left: 2.5vw;
+    margin-top: 2.5vh;
+    float:left;
+}
